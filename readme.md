@@ -14,7 +14,7 @@ dengan menggunakan python kami kelompok 8 membuat proggram kalkulator sederhana 
 
 ## 📸 Screenshot
 
-![Tampilan Proyek](screenshot.png)
+![Tampilan Proyek](projek.png)
 
 ## 🚀 Fitur
 
