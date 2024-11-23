@@ -9,10 +9,10 @@ from module.clear import clear
 
 def derajat():
     print("Konversi Suhu")
+    clear()
     
     try:
             while True:
-                clear()
                 data_input = input('Pilih suhu yang ingin dikonversi \n1. Celcius \n2. Fahrenheit \n3. Kelvin \n4. Reamur \nPilih salah satu: [1]/[2]/[3]/[4] :')
             
                 if data_input in konversi:

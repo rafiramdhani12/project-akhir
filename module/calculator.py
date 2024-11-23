@@ -7,14 +7,14 @@ def calculator():
         print("=== KALKULATOR ===")
         
         try:
-            angka1 = float(input("Masukkan angka pertama: "))
-            angka2 = float(input("Masukkan angka kedua: "))
+            angka1 = int(input("Masukkan angka pertama: "))
+            angka2 = int(input("Masukkan angka kedua: "))
         except ValueError:
             print("Input harus berupa angka!")
             input("Tekan Enter untuk melanjutkan...")
             continue
 
-        operasi = input("Pilih operasi: \n1. +  (penjumlahan)\n2. -  (pengurangan)\n3. *  (perkalian)\n4. /  (pembagian)\nMasukkan pilihan: ")
+        operasi = input("Pilih operasi: \n1. +\n2. -\n3. * \n4. /  \nMasukkan pilihan: ")
 
         if operasi == "+":
             result = angka1 + angka2
@@ -42,8 +42,8 @@ def calculator():
                 break
             elif lanjut == "y":
                 try:
-                    operasi_lanjutan = input("Masukkan operasi (+, -, *, /): ")
-                    angka_baru = float(input("Masukkan angka: "))
+                    operasi_lanjutan = input("Masukkan operasi \n + \n - \n * \n / : ")
+                    angka_baru = int(input("Masukkan angka: "))
                     
                     if operasi_lanjutan == "+":
                         result += angka_baru

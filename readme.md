@@ -1,7 +1,7 @@
 # 🌟 Project akhir samester 1
 
 ini adalah projek akhir semester tema sains (matematika)
-dengan menggunakan python kami kelompok 8 membuat proggram kalkulator sederhana sekai
+dengan menggunakan python kami kelompok 8 membuat proggram kalkulator sederhana
 
 ## Nama Kelompok
 
@@ -18,9 +18,7 @@ dengan menggunakan python kami kelompok 8 membuat proggram kalkulator sederhana 
 
 ## 🚀 Fitur
 
-- 🔥 Sangat cepat
-- ⚡ Ramah pengguna
-- 🌍 Mendukung banyak bahasa
+- ⚡ Ramah pengguna baru karena dibuat dengan py native tanpa framework / library dan dengan sintaks yg readable
 
 ## 🛠 Instalasi
 

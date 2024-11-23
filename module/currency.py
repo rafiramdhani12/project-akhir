@@ -25,7 +25,7 @@ def currency_conversion():
                 
                 if "conversion_rates" in data and to_currency in data["conversion_rates"]:
                     exchange_rate = data["conversion_rates"][to_currency]
-                    print(f"Kurva nilai tukar {from_currency} ke {to_currency} adalah {exchange_rate}")
+                    print(f"Kurva nilai tukar {from_currency} ke {to_currency} adalah {exchange_rate:.3f}")
                     
                     # ! lakukan konversi
                     amount = float(input("masukkan nilai yg ingin di konversi : "))
