@@ -34,9 +34,9 @@ py main.py
 - currency tidak akan bisa dipakai oleh orang luar karena itu menggunakan api
 
 
-⬜⬜⬛⬛⬛⬛
-⬜⬜⬜⬛⬛⬛
-⬜🔳⬜⬜🔳⬜
-⬜⬜⬜⬜⬜⬜
-⬜⬜🔳🔳⬜⬜
-⬜⬜⬜⬜⬜⬜
+⬜⬜⬛⬛⬛⬛  
+⬜⬜⬜⬛⬛⬛  
+⬜🔳⬜⬜🔳⬜  
+⬜⬜⬜⬜⬜⬜  
+⬜⬜🔳🔳⬜⬜  
+⬜⬜⬜⬜⬜⬜  
